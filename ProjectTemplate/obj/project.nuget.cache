@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CVs/TkgpVfVnA3OcQRgNI/hqTEvcHdbnV947Uod2vRAPVS35AUYcPYVwdi1pn1bWhqXsKlEs+GJmR5h6crfDFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dane\\source\\repos\\ProjectTemplate\\ProjectTemplate\\ProjectTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Dane\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
